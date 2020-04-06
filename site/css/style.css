@@ -152,7 +152,7 @@ ul.social-icons li a:hover {
 
 .button a:hover {
 
-    transition:
+
 
     /*transition: <property> <duration> <timing-function> <delay>;*/
 
@@ -213,11 +213,11 @@ footer {
 }
 
 
-@media screen and (prefers-reduced-motion: reduce) {
-    html {
-        scroll-behavior: auto;
-    }
-}
+/*@media screen and (prefers-reduced-motion: reduce) {*/
+/*    html {*/
+/*        scroll-behavior: auto;*/
+/*    }*/
+/*}*/
 
 
 .client-text {
