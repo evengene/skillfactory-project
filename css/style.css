@@ -74,20 +74,24 @@ section {
     margin: 30px auto 20px;
 }
 
-.navigation {
+header nav {
     padding: 25px 0;
     background-color: #f7f7f7;
     text-align: center;
 }
 
-.navigation a {
+nav li {
+    display: inline;
+}
+
+nav ul a {
     padding: 0 10px;
     color: #272727;
     text-align: center;
 
 }
 
-.navigation a:hover, #contact_me a:hover, a.link:hover {
+nav ul a:hover, #contact_me a:hover, a.link:hover {
     color: #000000;
     transition: 0.5s ease-out;
 }
