@@ -117,6 +117,10 @@ nav ul a:hover, #contact_me a:hover, a.link:hover {
     object-fit: cover;
 }
 
+.location {
+    margin-top: 50px;
+}
+
 ul.social-icons {
     padding-left: 0;
     list-style: none;
